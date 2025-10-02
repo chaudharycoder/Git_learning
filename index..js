@@ -11,11 +11,8 @@ console.log(footer)
 
 const payment="integrate payment gateway";
 console.log(payment)
-<<<<<<< HEAD
-=======
 
 
 const upi="upi added";
 console.log(upi);
 
->>>>>>> b54dd41 (upi added)
